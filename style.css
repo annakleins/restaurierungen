@@ -285,5 +285,11 @@ footer p {
 
     section {
         padding-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .list-cv {
+        padding-right: 32px;
+        margin: 0px;
     }
 }
