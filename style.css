@@ -292,4 +292,11 @@ footer p {
         padding-right: 32px;
         margin: 0px;
     }
+
+    .lightbox-content {
+        position: relative;
+        width: 80%;
+        height: 100%;
+        margin: auto;
+    }
 }
